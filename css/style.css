@@ -1,0 +1,36 @@
+.header {
+  width: 100%;
+  padding: 100px 0px 100px 0px;
+  background-color: #000;
+}
+
+.header h1 {
+  color: white;
+  text-align: center;
+}
+
+.content {
+  width: 100%;
+}
+.column {
+  width: 33%;
+  float: left;
+  border-right: dotted;
+}
+
+.column img {
+  float: left;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0px;
+  border-top: dotted;
+  width: 100%;
+  text-align: center;
+  background-color: #000;
+}
+
+.footer p {
+  color: white;
+}
