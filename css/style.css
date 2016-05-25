@@ -56,3 +56,10 @@ img {
   background-color: grey;
   color:inherit;
 }
+
+@media screen and (max-width: 1000px) {
+  .column {
+    width: 100%;
+    float: none;
+  }
+}
