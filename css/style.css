@@ -43,3 +43,16 @@ img {
   padding: 0px 5px 0px 5px;
   text-align: justify;
 }
+
+.column a:visited {
+  color:red;
+}
+
+.column a{
+  text-decoration: none;
+}
+
+.column a:hover  {
+  background-color: grey;
+  color:inherit;
+}
